@@ -1,4 +1,4 @@
-# ChatChat - TheChatApplication
+# ChitChat - TheChatApplication
 
 ## Installations:
 1. Qt4 designer
